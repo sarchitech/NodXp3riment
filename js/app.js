@@ -5,3 +5,7 @@ var c = a + b;
 console.log(c);
 
 */
+
+var greet = require("./greet.js");
+
+greet();
